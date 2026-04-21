@@ -5,6 +5,11 @@ This is the repository of University of Geneva - Living Earth Lab for the Horizo
 	<img src="img/LANDSHIFT-logo-RGB_no-tagline-scaled.png" alt="LandShift" width="200"/>
 </p>
 
+You will find our main contributions and the relevant source code/notebooks for the following work:
+- LCCS Land cover maps production [WP2]
+- Land cover projections [WP2]
+- Ecosystem services, extent, conditions and landscapes [WP3]
+- Data Cubes creation [WP5]
 
 ## Contributor guidelines
 Contributions are welcome and greatly appreciated! To contribute, please follow the following guidelines:
