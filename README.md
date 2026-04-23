@@ -8,7 +8,7 @@ This is the repository of University of Geneva - Living Earth Lab for the Horizo
 You will find our main contributions and the relevant source code/notebooks for the following work:
 - LCCS Land cover maps production [WP2]
 - Land cover projections [WP2]
-- Ecosystem services, extent, conditions and landscapes [WP3]
+- Ecosystem services, extent, conditions and landscapes [WP3](WP3)
 - Data Cubes creation [WP5]
 
 ## Contributor guidelines
