@@ -1,0 +1,10 @@
+lucode,MAES_L1,MAES_L2_Code,MAES_L2_Name,c_above,c_below,c_soil,c_dead,IPCC_source,Notes
+0,NODATA,0,NODATA,0,0,0,0,NODATA,NODATA
+101,Terrestrial,1,Urban,2,1,10,0,IPCC 2006 Ch.8,"Weighted average of sealed and green urban areas; low above-ground C"
+102,Terrestrial,2,Cropland,7,2,34,1,IPCC 2006 Table 5.1 & 5.3,"Average across arable and permanent crops; temperate European context"
+103,Terrestrial,3,Grassland,3,8,70,1,IPCC 2006 Table 6.4,"Temperate managed and semi-natural grasslands; high below-ground allocation"
+104,Terrestrial,4,Forest and woodland,80,18,95,9,IPCC 2006 Table 4.1 & 4.4,"Average across European forest types (broadleaved deciduous dominant); high soil C"
+105,Terrestrial,5,Heathland and shrub,10,6,65,2,IPCC 2006 Table 6.1 & Tier 1,"Temperate heath and Mediterranean shrubland; elevated soil C from peat-forming heaths"
+106,Terrestrial,6,Sparsely vegetated land,1,0,5,0,IPCC 2006 & Tier 1,"Near-zero pools; sparse pioneer vegetation and bare substrates"
+107,Terrestrial,7,Wetlands,5,3,300,1,IPCC Wetlands Supplement 2013,"Highly variable; dominated by peatbog soil C; use L3 values where possible"
+200,Freshwater,8,Rivers and lakes,0,0,0,0,n/a,"Open water; no applicable carbon pools for InVEST Carbon model"
