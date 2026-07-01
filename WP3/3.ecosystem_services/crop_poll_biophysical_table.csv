@@ -1,0 +1,10 @@
+lucode,lulc_name,nesting_cavity_availability_index,nesting_ground_availability_index,floral_resources_spring_index,floral_resources_summer_index
+0,NODATA,0,0,0,0
+101,Urban (Settlements and other artificial areas),0.05,0.05,0.05,0.05
+102,Cropland,0.0,0.1,0.2,0.3
+103,Grassland,0.05,0.6,0.5,0.7
+104,Forest and woodlands,0.7,0.3,0.4,0.2
+105,Heathland and shrub,0.3,0.6,0.5,0.6
+106,Sparsely vegetated land,0.1,0.5,0.1,0.1
+107,Wetlands,0.1,0.2,0.3,0.4
+200,Rivers and lakes,0.0,0.0,0.0,0.0

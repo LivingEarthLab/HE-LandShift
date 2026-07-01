@@ -1,0 +1,4 @@
+species,nesting_suitability_cavity_index,nesting_suitability_ground_index,foraging_activity_spring_index,foraging_activity_summer_index,alpha,relative_abundance
+bombus_spp,1,1,0.7,1.0,1500,0.4
+cavity_nesting_solitary_bee,1,0,1.0,0.5,500,0.3
+ground_nesting_solitary_bee,0,1,0.6,1.0,750,0.3
