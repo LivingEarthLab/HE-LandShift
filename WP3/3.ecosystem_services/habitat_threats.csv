@@ -1,0 +1,3 @@
+THREAT,MAX_DIST,WEIGHT,DECAY,CUR_PATH
+urban,8,1.0,exponential,habitat_urban.tif
+cropland,4,0.7,exponential,habitat_cropland.tif
