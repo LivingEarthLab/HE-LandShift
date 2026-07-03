@@ -9,7 +9,7 @@ These 12 types are categorized into three major eco-regions:
 - Freshwater (1 type): Rivers and lakes.
 - Marine (4 types): Marine inlets and transitional waters, Coastal, Shelf, and Open ocean.
 
-[Link to the notebook](WP3/1.ecosystem_extent/ecosystem_extent.ipynb)
+[Link to the notebook](1.ecosystem_extent/ecosystem_extent.ipynb)
 
 
 ## Ecosystem condition
