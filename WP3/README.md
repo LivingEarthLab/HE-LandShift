@@ -17,15 +17,13 @@ lccsFile = 'PATH_L4_landcover' #TBC
 
 outputFld = 'PATH_output' #TBC
 `
+
 Output files:
 
-> filename__maesL2.tif: MAES-compliant Level 2 map
->
-> filename_maesL1.tif: MAES-compliant Level 1 map
->
-> filename_maesL2_area_ha.csv: Area of MAES Level 2 categories
->
-> filename_maesL1_area_ha.csv: Area of MAES Level 1 categories
+> filename__maesL2.tif: MAES-compliant Level 2 map<br>
+> filename_maesL1.tif: MAES-compliant Level 1 map<br>
+> filename_maesL2_area_ha.csv: Area of MAES Level 2 categories<br>
+> filename_maesL1_area_ha.csv: Area of MAES Level 1 categories<br>
 
 ## Ecosystem condition
 
