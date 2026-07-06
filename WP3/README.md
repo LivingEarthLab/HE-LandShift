@@ -11,6 +11,16 @@ These 12 types are categorized into three major eco-regions:
 
 [Link to the notebook](1.ecosystem_extent/ecosystem_extent.ipynb)
 
+The only variables you should adapt are:
+`
+lccsFile = 'PATH_L4_landcover' #TBC
+outputFld = 'PATH_output' #TBC
+`
+Output files:
+> filename__maesL2.tif: MAES-compliant Level 2 map
+> filename_maesL1.tif: MAES-compliant Level 1 map
+> filename_maesL2_area_ha.csv: Area of MAES Level 2 categories
+> filename_maesL1_area_ha.csv: Area of MAES Level 1 categories
 
 ## Ecosystem condition
 
