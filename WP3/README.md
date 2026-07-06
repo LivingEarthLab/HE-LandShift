@@ -12,11 +12,10 @@ These 12 types are categorized into three major eco-regions:
 [Link to the notebook](1.ecosystem_extent/ecosystem_extent.ipynb)
 
 The only variables you should adapt are:
-`
-lccsFile = 'PATH_L4_landcover' #TBC
+`lccsFile = 'PATH_L4_landcover'`
 
-outputFld = 'PATH_output' #TBC
-`
+`outputFld = 'PATH_output'`
+
 
 Output files:
 
