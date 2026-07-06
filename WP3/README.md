@@ -11,9 +11,8 @@ These 12 types are categorized into three major eco-regions:
 
 [Link to the notebook](1.ecosystem_extent/ecosystem_extent.ipynb)
 
-The only variables you should adapt are:
-`lccsFile = 'PATH_L4_landcover'`
-
+The only variables you should adapt are:<br>
+`lccsFile = 'PATH_L4_landcover'`<br>
 `outputFld = 'PATH_output'`
 
 
