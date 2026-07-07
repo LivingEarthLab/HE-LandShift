@@ -28,6 +28,15 @@ Output files:
 ## Ecosystem services
 
 ## Landscape
+PyLM is a Python implementation of the Landscape Mosaic model for processing land cover maps, generating stratification layers, and producing key landscape metrics and visualizations (e.g., heatmaps). It is designed for accessibility, flexibility, and integration with open-source tools, supporting use as a standalone script, in Jupyter Notebooks, or within larger workflows for research, conservation, and planning.
+
+Main repository and documentation: https://github.com/ggiuliani/PyLM 
+
+[Link to the notebook](4.landscape/landscape.ipynb)
+
+Variables to edit:<br>
+
+Output files:
 
 ## ES provided by ecosystem types
 
