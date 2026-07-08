@@ -16,8 +16,7 @@ The only variables you should adapt are:<br>
 `outputFld = 'PATH_output'`
 
 
-Output files:
-
+Output files:<br>
 > filename__maesL2.tif: MAES-compliant Level 2 map<br>
 > filename_maesL1.tif: MAES-compliant Level 1 map<br>
 > filename_maesL2_area_ha.csv: Area of MAES Level 2 categories<br>
@@ -38,7 +37,15 @@ Variables to edit:<br>
 `lccsFile = 'PATH_L4_landcover'`<br>
 `outputFolder = 'PATH_output'`
 
-Output files:
+Output files:<br>
+> lm19class.tif:  proportion of A-N-D classes on a per pixel basis aggregated into 19 classes.
+> lmBackground.tif: summarizes the LM into 4 classes Natural - Agriculture - Developed - Mixed, showing the dominant presence of each LUC classes.
+> lmAgriculture.tif: summarizes the LM into 3 classes showing where agricultural LUC is dominant (>=60%), subdominant, or minor (<10%), thereby enabling the determination of the anthropogenic impact from agriculture.
+> lmDeveloped.tif: summarizes the LM into 3 classes showing where developed LUC is dominant (>=60%), subdominant, or minor (<10%), allowing to determine the anthropogenic impact from urbanization.
+> lmNatural.tif: summarizes the LM into 3 classes showing where natural LUC is dominant (>=60%), subdominant, or minor (<10%), allowing to determine the dominant natural classes not impacted by anthropogenic activies.
+> lmDiversity.tif: summarizes the LM into 4 classes to account the increasing degree of LUC diversity from Uniform, Dual, Triple, or Intermixed LUC, reporting on the degree of spatial heterogeneity.
+> lmAnthropicIntensity.tif: summarizes the anthopic intensity into 6 classes from Very Low - Low - Medium - High - Very High - Extreme, to account for the anthropogenic impacts.
+> heatmap.csv & stats.csv: provide summary statistics of the frequency distribution of the 103-classes within the ternary diagram.
 
 ## ES provided by ecosystem types
 
