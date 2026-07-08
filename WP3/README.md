@@ -35,6 +35,8 @@ Main repository and documentation: https://github.com/ggiuliani/PyLM
 [Link to the notebook](4.landscape/landscape.ipynb)
 
 Variables to edit:<br>
+`lccsFile = 'PATH_L4_landcover'`<br>
+`outputFolder = 'PATH_output'`
 
 Output files:
 
