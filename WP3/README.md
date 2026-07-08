@@ -38,14 +38,14 @@ Variables to edit:<br>
 `outputFolder = 'PATH_output'`
 
 Output files:<br>
-> lm19class.tif:  proportion of A-N-D classes on a per pixel basis aggregated into 19 classes.
-> lmBackground.tif: summarizes the LM into 4 classes Natural - Agriculture - Developed - Mixed, showing the dominant presence of each LUC classes.
-> lmAgriculture.tif: summarizes the LM into 3 classes showing where agricultural LUC is dominant (>=60%), subdominant, or minor (<10%), thereby enabling the determination of the anthropogenic impact from agriculture.
-> lmDeveloped.tif: summarizes the LM into 3 classes showing where developed LUC is dominant (>=60%), subdominant, or minor (<10%), allowing to determine the anthropogenic impact from urbanization.
-> lmNatural.tif: summarizes the LM into 3 classes showing where natural LUC is dominant (>=60%), subdominant, or minor (<10%), allowing to determine the dominant natural classes not impacted by anthropogenic activies.
-> lmDiversity.tif: summarizes the LM into 4 classes to account the increasing degree of LUC diversity from Uniform, Dual, Triple, or Intermixed LUC, reporting on the degree of spatial heterogeneity.
-> lmAnthropicIntensity.tif: summarizes the anthopic intensity into 6 classes from Very Low - Low - Medium - High - Very High - Extreme, to account for the anthropogenic impacts.
-> heatmap.csv & stats.csv: provide summary statistics of the frequency distribution of the 103-classes within the ternary diagram.
+> lm19class.tif:  proportion of A-N-D classes on a per pixel basis aggregated  into 19 classes.<br>
+> lmBackground.tif: summarizes the LM into 4 classes Natural - Agriculture - Developed - Mixed, showing the dominant presence of each LUC classes.<br>
+> lmAgriculture.tif: summarizes the LM into 3 classes showing where agricultural LUC is dominant (>=60%), subdominant, or minor (<10%), thereby enabling the determination of the anthropogenic impact from agriculture.<br>
+> lmDeveloped.tif: summarizes the LM into 3 classes showing where developed LUC is dominant (>=60%), subdominant, or minor (<10%), allowing to determine the anthropogenic impact from urbanization.<br>
+> lmNatural.tif: summarizes the LM into 3 classes showing where natural LUC is dominant (>=60%), subdominant, or minor (<10%), allowing to determine the dominant natural classes not impacted by anthropogenic activies.<br>
+> lmDiversity.tif: summarizes the LM into 4 classes to account the increasing degree of LUC diversity from Uniform, Dual, Triple, or Intermixed LUC, reporting on the degree of spatial heterogeneity.<br>
+> lmAnthropicIntensity.tif: summarizes the anthopic intensity into 6 classes from Very Low - Low - Medium - High - Very High - Extreme, to account for the anthropogenic impacts.<br>
+> heatmap.csv & stats.csv: provide summary statistics of the frequency distribution of the 103-classes within the ternary diagram.<br>
 
 ## ES provided by ecosystem types
 
