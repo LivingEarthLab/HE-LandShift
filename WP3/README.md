@@ -47,6 +47,8 @@ Output files:<br>
 > lmAnthropicIntensity.tif: summarizes the anthopic intensity into 6 classes from Very Low - Low - Medium - High - Very High - Extreme, to account for the anthropogenic impacts.<br>
 > heatmap.csv & stats.csv: provide summary statistics of the frequency distribution of the 103-classes within the ternary diagram.<br>
 
+Files with _rgb are just for rendering purposes
+
 ## ES provided by ecosystem types
 
 ## Ecosystem health
