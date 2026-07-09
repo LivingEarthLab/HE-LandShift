@@ -9,7 +9,7 @@ These 12 types are categorized into three major eco-regions:
 - Freshwater (1 type): Rivers and lakes.
 - Marine (4 types): Marine inlets and transitional waters, Coastal, Shelf, and Open ocean.
 
-[Link to the notebook](1.ecosystem_extent/ecosystem_extent.ipynb)
+[Link to the notebook](ecosystem_extent/ecosystem_extent.ipynb)
 
 The only variables you should adapt are:<br>
 `lccsFile = 'PATH_L4_landcover'`<br>
@@ -31,7 +31,7 @@ PyLM is a Python implementation of the Landscape Mosaic model for processing lan
 
 Main repository and documentation: https://github.com/ggiuliani/PyLM 
 
-[Link to the notebook](4.landscape/landscape.ipynb)
+[Link to the notebook](landscape/landscape.ipynb)
 
 Variables to edit:<br>
 `lccsFile = 'PATH_L4_landcover'`<br>
