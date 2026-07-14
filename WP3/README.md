@@ -30,6 +30,8 @@ Two notebooks:
 - data preparation: extract NDVI refrence and current periods + Tree cover
 - compute ecosystem conditions
 
+Edit configuration + define CRS
+
 ## Ecosystem services
 
 ## Landscape
