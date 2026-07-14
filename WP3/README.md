@@ -32,6 +32,10 @@ Two notebooks:
 
 Edit configuration + define CRS
 
+[Notebook to prepare the necessary data using GEE](ecosystem_condition/ecosystem_condition_prep.ipynb)
+[Notebook to clip all rasters to the LC extent maps](ecosystem_condition/clip_rasters_with_vector.ipynb)
+[Notebook to compute ecosytem condition](ecosystem_condition/ecosystem_condition.ipynb)
+
 ## Ecosystem services
 
 ## Landscape
