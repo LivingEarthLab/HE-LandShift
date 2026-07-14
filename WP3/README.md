@@ -26,6 +26,10 @@ Output files:<br>
 
 Reference period: 2000-2015 (similar to UNCCD SDG15.3.1 reference)
 
+Two notebooks:
+- data preparation: extract NDVI refrence and current periods + Tree cover
+- compute ecosystem conditions
+
 ## Ecosystem services
 
 ## Landscape
