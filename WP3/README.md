@@ -24,6 +24,8 @@ Output files:<br>
 
 ## Ecosystem condition
 
+Reference period: 2000-2015 (similar to UNCCD SDG15.3.1 reference)
+
 ## Ecosystem services
 
 ## Landscape
