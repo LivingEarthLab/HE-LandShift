@@ -36,6 +36,15 @@ Edit configuration + define CRS
 [Notebook to clip all rasters to the LC extent maps](ecosystem_condition/clip_rasters_with_vector.ipynb)<br>
 [Notebook to compute ecosytem condition](ecosystem_condition/ecosystem_condition.ipynb)
 
+ ✅  ecosystem_condition_map.tif                GeoTIFF — SEEA EA condition raster (1–5)
+  ✅  condition_statistics.csv                   CSV — Per-ecosystem condition breakdown
+  ✅  rle_assessment.csv                         CSV — IUCN RLE Criterion D assessment
+  ✅  01_input_layers.png                        Figure — LCCS map + NDVI layers
+  ✅  02_condition_indicators.png                Figure — 4 biophysical indicators
+  ✅  03_ecosystem_condition_map.png             Figure — Main condition map
+  ✅  04_condition_by_ecosystem_group.png        Figure — Stacked bar by ecosystem group
+  ✅  05_summary_dashboard.png                   Figure — Full summary dashboard
+
 ## Ecosystem services
 
 ## Landscape
