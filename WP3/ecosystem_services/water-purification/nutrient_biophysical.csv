@@ -1,0 +1,10 @@
+lucode,description,load_n,load_type_n,eff_n,crit_len_n,proportion_subsurface_n,load_p,load_type_p,eff_p,crit_len_p
+0, NODATA,0.0,measured-runoff,0.0,0,0.0,0.0,measured-runoff,0.0,0
+101,"Urban (Settlements and other artificial areas)",8.0,measured-runoff,0.10,150,0.00,2.5,measured-runoff,0.20,150
+102,Cropland,30.0,measured-runoff,0.25,150,0.20,4.5,measured-runoff,0.35,150
+103,Grassland,4.0,measured-runoff,0.45,150,0.10,1.0,measured-runoff,0.60,150
+104,"Forest and woodlands",1.5,measured-runoff,0.60,150,0.15,0.5,measured-runoff,0.75,150
+105,"Heathland and shrub",2.5,measured-runoff,0.50,150,0.10,0.8,measured-runoff,0.65,150
+106,"Sparsely vegetated land",0.8,measured-runoff,0.15,150,0.05,0.2,measured-runoff,0.20,150
+107,Wetlands,0.6,measured-runoff,0.80,150,0.30,0.2,measured-runoff,0.85,150
+200,"Rivers and lakes",0.0,measured-runoff,0.05,150,0.00,0.0,measured-runoff,0.05,150
