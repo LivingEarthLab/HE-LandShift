@@ -1,0 +1,10 @@
+lucode,description,usle_c, usle_p
+0, NODATA,0.0, 0
+101,"Urban (Settlements and other artificial areas)",0.1,1
+102,Cropland,0.5,1
+103,Grassland,0.14,1
+104,"Forest and woodlands",0.006,1
+105,"Heathland and shrub",0.07,1
+106,"Sparsely vegetated land",0.35,1
+107,Wetlands,0.05,1
+200,"Rivers and lakes",0.01,1
