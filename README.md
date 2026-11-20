@@ -3,7 +3,7 @@
 This is the repository of the University of Geneva – [Living Earth Lab](https://www.unige.ch/envirospace/livingearth) for the Horizon Europe [LandShift](https://landshift.eu) project. It hosts the code and notebooks we develop as our contribution to the [Living Earth](https://livingearthhub.org) framework.
 
 <p align="center">
-	<img src="img/LANDSHIFT-logo-RGB_no-tagline-scaled.png" alt="MONALISA" width="200"/>
+	<img src="img/LANDSHIFT-logo-RGB_no-tagline-scaled.png" alt="LandShift" width="200"/>
 </p>
 
 ## About LandShift
