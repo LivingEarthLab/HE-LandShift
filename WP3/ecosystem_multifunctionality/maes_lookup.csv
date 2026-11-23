@@ -1,0 +1,13 @@
+maes_code,ecosystem_type,maes_color
+101,Urban (Settlements and other artificial areas),#d9a38f
+102,Cropland,#ffd21f
+103,Grassland,#d3e6b0
+104,Forest and woodlands,#7cb518
+105,Heathland and shrub,#7d7a35
+106,Sparsely vegetated land,#fff3a0
+107,Wetlands,#b2e3e3
+200,Rivers and lakes,#6ec9b8
+301,Marine inlets and transitional waters,#5b9bb5
+302,Coastal,#c9c9c9
+303,Shelf,#b5a7e0
+304,Open ocean,#7a6fa8
